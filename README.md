@@ -1,4 +1,12 @@
-[First-order-wrapper is not for making unethical, illicit or inappropriate content. Learn more here.](MANIFESTO.md)
+# Hold up! [First-order-wrapper is not for making unethical, illicit or inappropriate content. Learn more here.](MANIFESTO.md)
+
+This is a fork of @dunnousername's yanderify, designed to work entirely in a console.  
+  
+    
+    
+    
+    
+    
 
 ## Yanderify is now known as first-order-wrapper to more accurately describe its function.
 Since this project is no longer in active development, the name won't be changed everywhere.
